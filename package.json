@@ -1,0 +1,23 @@
+{
+  "name": "RESTfulAPI",
+  "version": "1.0.0",
+  "description": "Made an api of my own to understand the RESTful principles using an API project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lakshaykarnwal/RESTfulAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lakshaykarnwal/RESTfulAPI/issues"
+  },
+  "homepage": "https://github.com/lakshaykarnwal/RESTfulAPI#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
