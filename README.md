@@ -1,2 +1,5 @@
-# RESTfulAPI
-Made an api of my own to understand the RESTful principles using an API project.
+# CourseManagement API
+Made an api to manage courses.
+
+This is a test api for the Reyna Health application
+
